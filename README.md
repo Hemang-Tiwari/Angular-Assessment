@@ -19,5 +19,5 @@ It demonstrates:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/patient-search-app.git
+git clone https://github.com/Hemang-Tiwari/Angular-Assessment.git
 cd patient-search-app
